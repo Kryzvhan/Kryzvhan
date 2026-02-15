@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Kryzvhan/Kryzvhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Turning curiosity into code.
 
-Here are some ideas to get you started:
+This is Kryzvhan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Frontend Developer in Progress 💻
+
+Currently Learning and building with HTML, CSS, and JavaScript.
+Focused on strong fundamentals and writing clean, structured code.
+
+Currently focused on building personal projects.
+
+## Mindset 
+- Consistency > Motivation.
+- Learn by Build
+- Improving step by step, every day
+
+## Fun Facts
+- I play with code more than I play actual games
+- I enjoy breaking and fixing things
+- Curiosity drives everything I build
+- Clean code > everything
